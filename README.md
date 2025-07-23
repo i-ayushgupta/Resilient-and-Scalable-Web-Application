@@ -77,14 +77,5 @@ The application architecture is built on the following AWS components:
 ┣ 📜performance-report.pdf
 
 ```
-
-## 📎 Documentation
-
-- [Architecture & Design](./architecture.pdf)
-- [Implementation Guide](./deployment-guide.pdf)
-- [Performance Report](./performance-report.pdf)
-
----
-
 **Developed under CloudFolks HUB Capstone Project-1**  
 ```
